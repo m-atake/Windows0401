@@ -1,0 +1,14 @@
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\bin\Debug\Windows0401.exe.config
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\bin\Debug\Windows0401.exe
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\bin\Debug\Windows0401.pdb
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\bin\Debug\Windows0401.xml
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.vbproj.AssemblyReference.cache
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.Form1.resources
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.Resources.resources
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.vbproj.GenerateResource.cache
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.vbproj.CoreCompileInputs.cache
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.exe
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.xml
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.pdb
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.Form2.resources
+C:\Users\masaaki atake\source\repos\Windows0401\Windows0401\obj\Debug\Windows0401.Form3.resources
